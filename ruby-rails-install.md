@@ -6,7 +6,8 @@ This is only about installing Ruby and Rails on a Linux system. It's very simila
 ## Install Ruby
 
 First, install RVM and a current version of Ruby. Open a Terminal and execute the following:
-$ \curl -L https://get.rvm.io
+
+	$ \curl -L https://get.rvm.io
 
 RVM is now installed for you user account. Do not use sudo in any of these commands, the Ruby installation will be strictly for your user, not systemwide.
 
