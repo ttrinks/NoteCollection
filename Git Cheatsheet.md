@@ -10,10 +10,15 @@ clone - clone an existing repo
 
 ### Browse
 status - files changed in working directory
+
 log - history of changes
+
 blame _file_ - who authored each line in _file_
+
 show _id_ - show a commit identified by _id_
+
 diff - changes to tracked files
+
 diff _id1_ _id2_ - changes between _id1_ and _id2_
 
 ### Revert
