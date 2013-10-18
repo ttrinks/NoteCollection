@@ -12,8 +12,8 @@ Which one do we use?
 --------------------
 Sublime Text !!!
 
-Why?
-----
+Whytitty?
+---------
 1) Available for the most popular operating systems.
 2) Excellent Concept, simple to use.
 3) Extremly clear, without any distraction or senseless gimmickries.
