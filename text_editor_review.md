@@ -16,7 +16,7 @@ Which one do we use?
 Sublime Text !!!
 
 
-whytitty?
+Why?
 --------
 
 
